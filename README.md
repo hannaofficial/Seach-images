@@ -3,7 +3,7 @@ I use Unspash ApI for getting The Image . In this website I also integrate Dark 
 
 Here I  use useQuery hook because of that If anyone search the same url it automatically get loaded without being loaded from the api call 
 
-useQuery code is in Gallery.
+useQuery code is in Gallery.jsx
 
 If you want to run this code on your computer
 
